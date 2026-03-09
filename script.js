@@ -1,6 +1,6 @@
 // Simple welcome message
 window.onload = () => {
-  console.log("Welcome to Bhuwan Baral's Portfolio");
+  console.log("Welcome to Bishal Acharya's Portfolio");
 };
 
 
